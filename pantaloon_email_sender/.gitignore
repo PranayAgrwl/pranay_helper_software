@@ -1,0 +1,11 @@
+# Ignore sensitive credentials
+.env
+
+# Ignore all files in the attachments folder
+attachements/
+
+# Ignore everything in the deleted/archived folder
+del_attachements/
+
+# Ignore sensitive email sender list
+random_email_sender/email_recipients.csv

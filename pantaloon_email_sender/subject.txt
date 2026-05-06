@@ -1,0 +1,2 @@
+Rent Bill for the month of {current_month} 
+/* This is the official subject line */

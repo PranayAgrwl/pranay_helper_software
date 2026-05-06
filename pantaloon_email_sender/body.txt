@@ -1,0 +1,7 @@
+Dear Aditya Birla Fashion and Retail Ltd. Team,
+
+Please find the rent bill for {current_month} attached. 
+
+Thank you,
+Deepak Agrawal
+/* Notes: testing */
