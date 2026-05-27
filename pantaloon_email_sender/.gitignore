@@ -8,4 +8,4 @@ attachements/
 del_attachements/
 
 # Ignore sensitive email sender list
-random_email_sender/email_recipients.csv
+email_recipients.csv

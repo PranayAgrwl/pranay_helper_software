@@ -1,0 +1,15 @@
+file_mover
+
+file is uploaded once, can be downloaded once, and then is moved to del folder after renaming the file using del_timestamp_name
+
+header
+upload
+download
+footer
+
+---
+is to be run locally in localhost only within LAN
+---
+php, html, css, bootstrap, javascript
+---
+extremely lightweight

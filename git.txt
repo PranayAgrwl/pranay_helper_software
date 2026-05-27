@@ -1,0 +1,9 @@
+cd C:\xampp\htdocs\pranay_helper_software\
+
+git add .
+
+git commit -m "message here"
+
+git push -u origin main
+
+timeout /t 7 & exit

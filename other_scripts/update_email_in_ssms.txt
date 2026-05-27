@@ -1,0 +1,15 @@
+-- 1. Check if exactly one row matches the criteria
+IF (SELECT COUNT(*) FROM MASTER WHERE CODE = 'L1096') = 1
+BEGIN
+    -- 2. If true, execute the update
+    UPDATE MASTER 
+    SET EMAIL = 'krishnalehanga4345@gmail.com' 
+    WHERE CODE = 'L1096';
+
+    PRINT 'Update successful: Exactly 1 row was updated.';
+END
+ELSE
+BEGIN
+    -- 3. If 0 or multiple rows found, do nothing and warn
+    PRINT 'Safety abort: Update skipped because the row count was not exactly 1.';
+END

@@ -1,0 +1,13 @@
+we have created new application - it is personal helper software - sometimes i wish to redact or censor a page or a part of page
+
+what i do now is copy lorem ipsum and paste it in a word document where where i want to not show previous data - which i thn print onto my actual document where i want to redact data
+
+i want you to create a page - for personal use only - which shows an a4 page - and a cursor like ms paint - and i can select and create boxes of where - where i want to show random crap lorem ipsum
+
+and i make 2-3 boxes where ever i want - and then i press print - and then it shows new pdf page - and then i print it out - on my important document - now redacted
+
+- do you understand --- feel free to ask any question any doubt what so ever
+
+first - make complete a4 page filled with crap - and assume that there is a white cloth over it - and where ever i draw square - assume the white cloth has been cut and show random crap instead
+
+thank you
