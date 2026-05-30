@@ -2,7 +2,7 @@ cd C:\xampp\htdocs\pranay_helper_software\
 
 git add .
 
-git commit -m "message here"
+git commit -m "random push - for sunday - for pulling at home"
 
 git push -u origin main
 

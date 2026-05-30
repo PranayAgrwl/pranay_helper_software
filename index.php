@@ -26,6 +26,14 @@
             <a href="/pranay_helper_software/redacted_pdf/index.php">
                 <span>Redacted Page</span>
             </a>
+            <br>
+            <a href="/pranay_helper_software/cheque_printer/index.php">
+                <span>Cheque Printer</span>
+            </a>
+            <br>
+            <a href="/pranay_helper_software/HDFC_Slip_Printer/index.php">
+                <span>HDFC Deposit Slip Printer</span>
+            </a>
         </div>
     </div>
 
