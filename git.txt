@@ -2,7 +2,7 @@ cd C:\xampp\htdocs\pranay_helper_software\
 
 git add .
 
-git commit -m "random push - for sunday - for pulling at home"
+git commit -m "updated pantaloon email sender - now both xampp dependent instead of powershell"
 
 git push -u origin main
 

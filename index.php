@@ -34,6 +34,14 @@
             <a href="/pranay_helper_software/HDFC_Slip_Printer/index.php">
                 <span>HDFC Deposit Slip Printer</span>
             </a>
+            <br>
+            <a href="/pranay_helper_software/pantaloon_email_sender/index.php">
+                <span>Pantaloon Email Sender</span>
+            </a>
+            <br>
+            <a href="/pranay_helper_software/random_email_sender/index.php">
+                <span>Random Email Sender</span>
+            </a>
         </div>
     </div>
 

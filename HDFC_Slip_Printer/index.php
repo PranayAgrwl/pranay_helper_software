@@ -183,19 +183,19 @@ declare(strict_types=1);
         </div>
         <div class="mb-2">
             <label class="form-label small mb-1">Account Number</label>
-            <input type="text" id="inpAccount" class="form-control form-control-sm" placeholder="e.g. 50100123456789" maxlength="30">
+            <input type="text" id="inpAccount" class="form-control form-control-sm" placeholder="e.g. 50200013471530" maxlength="30">
         </div>
         <div class="mb-2">
             <label class="form-label small mb-1">Contact Number</label>
-            <input type="text" id="inpContact" class="form-control form-control-sm" placeholder="e.g. 9876543210" maxlength="15">
+            <input type="text" id="inpContact" class="form-control form-control-sm" placeholder="e.g. 9374712601" maxlength="15">
         </div>
         <div class="mb-2">
             <label class="form-label small mb-1">Name</label>
-            <input type="text" id="inpName" class="form-control form-control-sm" placeholder="e.g. RAVI KUMAR" maxlength="60">
+            <input type="text" id="inpName" class="form-control form-control-sm" placeholder="e.g. DEEPAK TEXTILES" maxlength="60">
         </div>
         <div class="mb-2">
             <label class="form-label small mb-1">Bank &amp; Branch</label>
-            <input type="text" id="inpBankBranch" class="form-control form-control-sm" placeholder="e.g. SBI MUMBAI" maxlength="40">
+            <input type="text" id="inpBankBranch" class="form-control form-control-sm" placeholder="e.g. HDFC" maxlength="40">
         </div>
         <div class="mb-2">
             <label class="form-label small mb-1">Cheque Number</label>
